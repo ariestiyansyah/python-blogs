@@ -203,6 +203,7 @@ A curated list of python programming language blogs
 - Stavros Korokithakis https://www.stavros.io/tutorials/python/
 
 #### T Individuals
+- Tarek Ziadé https://blog.ziade.org/
 - The Hitchhiker’s Guide to Python! http://docs.python-guide.org/en/latest/
 
 #### U Individuals
