@@ -2,11 +2,11 @@
 
 ##Please ensure your pull request address to the following guidelines:
 
-* Make sure your submission is not a duplicate.
-* Follow the following format: `Blog Name - Link` example: `Python Blog http://python.org`
-* End all descriptions with a full stop.
-* Check your spelling and grammar.
-* Make an individual pull request for each suggestion.
-* The pull request and commit should have a useful title.
+- Make sure your submission is not a duplicate.
+- Follow the following format: `Blog Name - Link` example: `Python Blog http://python.org`
+- End all descriptions with a full stop.
+- Check your spelling and grammar.
+- Make an individual pull request for each suggestion.
+- The pull request and commit should have a useful title.
 
-- You contributions are much appreciated, Thanks for your suggestions!
+Thanks for your suggestions! You contributions are much appreciated.
