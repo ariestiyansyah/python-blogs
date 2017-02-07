@@ -24,6 +24,7 @@ A curated list of python programming language blogs
 
 #### B Companies
 - Beauty of Imagination http://beauty-of-imagination.blogspot.co.id/search/label/python
+- Bixly https://bixly.com/blog/
 
 #### C Companies
 - CGMaster http://www.cgmasters.net/category/free-tutorials/python/
@@ -32,9 +33,11 @@ A curated list of python programming language blogs
 - Data Brewery http://blog.databrewery.org/ 
 
 #### E Companies
+- Effbot http://effbot.org/zone/index.htm
 
 #### F Companies
 - From Python Import Podcast http://www.frompythonimportpodcast.com/
+- Fullstack Python https://www.fullstackpython.com/blog.html
 
 #### G Companies
 - Glowing Python http://glowingpython.blogspot.co.id/
@@ -42,16 +45,20 @@ A curated list of python programming language blogs
 #### H Companies
 
 #### I Companies
+- Intentwithpython http://inventwithpython.com/blog/
 
 #### J Companies
 - Jupyter https://blog.jupyter.org/
+- Jetbrains https://blog.jetbrains.com/pycharm/
 
 #### K Companies
 
 #### L Companies
+- Love Python http://love-python.blogspot.co.id/
 
 #### M Companies
 - More PyPy https://morepypy.blogspot.co.id/
+- Mouse vs Python http://www.blog.pythonlibrary.org/
 
 #### N Companies
 
@@ -60,14 +67,20 @@ A curated list of python programming language blogs
 #### P Companies
 - Python Weekly http://www.pythonweekly.com/
 - Python Course EU http://www.python-course.eu/
+- Python Tips https://pythontips.com/
+- Python Blogs http://www.pythonblogs.com/
+- Practical Business Python http://pbpython.com/
+- Python Anywhere https://blog.pythonanywhere.com/
 
 #### Q Companies
 
 #### R Companies
 - RadiofreePython http://radiofreepython.com/
+- Python Sub Reddit http://www.reddit.com/r/Python/
 
 #### S Companies
 - Secret Weblog https://blog.startifact.com/categories/python.html
+- Planet Scipy https://planet.scipy.org/
 
 #### T Companies
 - Twilio Python https://www.twilio.com/docs/quickstart/python
@@ -94,11 +107,14 @@ A curated list of python programming language blogs
 - Arunrocks http://arunrocks.com/archives/
 
 #### B Individuals
+- Brett Cannon https://snarky.ca/
 
 #### C Individuals
 - Charles Leifer http://charlesleifer.com/blog/tags/python/
+- Coder who say Py http://sayspy.blogspot.co.id/
 
 #### D Individuals
+- Doug Hellman https://doughellmann.com/blog/
 
 #### E Individuals
 - Eli Bendersky http://eli.thegreenplace.net/tag/python
@@ -120,6 +136,7 @@ A curated list of python programming language blogs
 #### L Individuals
 
 #### M Individuals
+- Matthias Eisen (Python Pattern) http://matthiaseisen.com/pp/
 
 #### N Individuals
 - Ned Batchelder http://nedbatchelder.com/blog/tag/python.html
@@ -129,15 +146,18 @@ A curated list of python programming language blogs
 #### P Individuals
 - Paul Finn http://www.pfinn.net/
 - PyDanny https://www.pydanny.com/category/python.html
+- Planet Python http://planetpython.org/
 
 #### Q Individuals
 
 #### R Individuals
+- RealPython https://realpython.com/blog/
 
 #### S Individuals
 - Stories for sad robots http://blog.erezsh.com/
 
 #### T Individuals
+- The Hitchhiker’s Guide to Python! http://docs.python-guide.org/en/latest/
 
 #### U Individuals
 
