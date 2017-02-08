@@ -137,6 +137,7 @@ A curated list of python programming language blogs
 
 #### Z Companies
 - Zerynth https://www.zerynth.com/blog/
+- Zato https://zato.io/blog/
 
 ### Individuals
 
@@ -232,18 +233,22 @@ A curated list of python programming language blogs
 #### U Individuals
 
 #### V Individuals
+- Vinay Sajip http://plumberjack.blogspot.co.id/
+- Vasudev Ram https://jugad2.blogspot.co.id/search/label/python
 
 #### W Individuals
 - Wu Wen Jie http://blog.just4fun.site/index.html
+- Wyatt Baldwin http://wyattbaldwin.com/
 
 #### X Individuals
 
 #### Y Individuals
+- Yoong Kang Lim https://yoongkang.com/
 
 #### Z Individuals
+- Zaki Ahmad http://za.github.io/
 
 
 ## LICENSE 
 
-Licensed under WTFPL
-Rizky Ariestiyansyah <ariestiyansyah.rizky@gmail.com>
+Licensed under WTFPL | Rizky Ariestiyansyah
