@@ -1,6 +1,8 @@
-# Python Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Python Blogs
 
 A curated list of python programming language blogs
+
+- [Contribute](CONTRIBUTIONS.md)
 
 ### [Companies/Organization](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -238,3 +240,9 @@ A curated list of python programming language blogs
 #### Y Individuals
 
 #### Z Individuals
+
+
+## LICENSE 
+
+Licensed under WTFPL
+Rizky Ariestiyansyah <ariestiyansyah.rizky@gmail.com>
