@@ -101,6 +101,7 @@ A curated list of python programming language blogs
 - Planet Python http://planetpython.org/
 - Python Developer Guide http://cpython-devguide.readthedocs.io/en/github/index.html
 - Python Club BR http://pythonclub.com.br/
+- Python ID Blog [www.python.or.id](http://www.python.or.id)
 
 #### Q Companies
 
