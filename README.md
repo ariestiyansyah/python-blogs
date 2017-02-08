@@ -34,6 +34,7 @@ A curated list of python programming language blogs
 
 #### D Companies
 - Data Brewery http://blog.databrewery.org/ 
+- DataCamp https://www.datacamp.com/community/tutorials
 
 #### E Companies
 - Effbot http://effbot.org/zone/index.htm
@@ -71,6 +72,8 @@ A curated list of python programming language blogs
 #### M Companies
 - More PyPy https://morepypy.blogspot.co.id/
 - Mouse vs Python http://www.blog.pythonlibrary.org/
+- MicroPyramid https://micropyramid.com/blog/
+- Machinelearningmastery http://machinelearningmastery.com/blog/
 
 #### N Companies
 - Neopythonic http://neopythonic.blogspot.co.id/
@@ -94,6 +97,8 @@ A curated list of python programming language blogs
 - Python Spot https://pythonspot.com/
 - Python for Beginners http://www.pythonforbeginners.com/
 - Planet Python http://planetpython.org/
+- Python Developer Guide http://cpython-devguide.readthedocs.io/en/github/index.html
+- Python Club BR http://pythonclub.com.br/
 
 #### Q Companies
 
@@ -139,9 +144,16 @@ A curated list of python programming language blogs
 - Arunrocks http://arunrocks.com/archives/
 - AIJogja http://aijogja.pythonblogs.com/251_aijogja
 - Alan Richmond http://python3.codes/
+- Andrii Soldatenko https://asoldatenko.com/category/python.html
+- Alex Clark http://blog.aclark.net/blog/category/python.html
+- Alex Grönholm http://alextechrants.blogspot.co.id/search/label/python
+- Anton Bobrov http://bobrochel.blogspot.co.id/search/label/python
+- Andre Roberge https://aroberge.blogspot.co.id/
 
 #### B Individuals
 - Brett Cannon https://snarky.ca/
+- Ben Rousch http://clusterbleep.net/blog/
+- Ben Tappin http://mrben.co.uk/category/python/
 
 #### C Individuals
 - Charles Leifer http://charlesleifer.com/blog/tags/python/
@@ -156,6 +168,9 @@ A curated list of python programming language blogs
 - Eli Bendersky http://eli.thegreenplace.net/tag/python
 
 #### F Individuals
+- Filipe Saravia http://blog.filipesaraiva.info/
+- Francois Doin http://raspberry-python.blogspot.co.id/search/label/english
+- Fabio Zadrozny http://pydev.blogspot.co.id/
 
 #### G Individuals
 - Giacomo Lacava http://blog.pythonaro.com/
@@ -171,22 +186,27 @@ A curated list of python programming language blogs
 - Jeff Knupp https://www.jeffknupp.com/blog/
 - Jessen Oller http://jessenoller.com/
 - James Benett http://www.b-list.org/weblog/categories/python/
+- Jev Kuznetsov http://tradingwithpython.blogspot.co.id/
 
 #### K Individuals
 - Kevin Davenport http://kldavenport.com/
 
 #### L Individuals
+- Luke Plant http://lukeplant.me.uk/blog/categories/python/
 
 #### M Individuals
 - Matthias Eisen (Python Pattern) http://matthiaseisen.com/pp/
 - Marc-André Lemburg http://www.malemburg.com/
 - Miguel Grinberg https://blog.miguelgrinberg.com/category/Python
+- Mahmoud Hashemi http://sedimental.org/tagged/python/
 
 #### N Individuals
 - Ned Batchelder http://nedbatchelder.com/blog/tag/python.html
 - Nick Coghlan http://python-notes.curiousefficiency.org/en/latest/index.html
 
 #### O Individuals
+- Ondřej Čertík http://ondrejcertik.blogspot.co.id/search/label/python
+- Orestis Markou https://orestis.gr/
 
 #### P Individuals
 - Paul Finn http://www.pfinn.net/
@@ -211,6 +231,7 @@ A curated list of python programming language blogs
 #### V Individuals
 
 #### W Individuals
+- Wu Wen Jie http://blog.just4fun.site/index.html
 
 #### X Individuals
 
