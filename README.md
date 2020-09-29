@@ -37,6 +37,7 @@ A curated list of python programming language blogs
 #### D Companies
 - Data Brewery http://blog.databrewery.org/ 
 - DataCamp https://www.datacamp.com/community/tutorials
+- Divyanshu Shekhar https://divyanshushekhar.com/category/python/
 
 #### E Companies
 - Effbot http://effbot.org/zone/index.htm
@@ -54,6 +55,7 @@ A curated list of python programming language blogs
 #### H Companies
 - History of Python http://python-history.blogspot.co.id/
 - Hands-on Python Tutorial http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html
+- Hack The Developer https://hackthedeveloper.com/python/
 
 #### I Companies
 - Intentwithpython http://inventwithpython.com/blog/
